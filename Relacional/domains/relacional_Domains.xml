@@ -1,0 +1,40 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="relacional_Domains">
+<domains>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_0" id="07E41889-28EF-0727-E150-5B4F4D160696">
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:07:15 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>relacional_Domains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="Date_0_0_0" id="4FC345EE-52EA-F0A3-5FC5-6D6512ECE49E">
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:07:15 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>relacional_Domains</fileName>
+<logicalDatatype>LOGDT007</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="NUMERIC_0_0_0" id="78940183-5981-3464-8D2E-76D771F0E28E">
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:07:15 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>relacional_Domains</fileName>
+<logicalDatatype>LOGDT019</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_50" id="DFDE8B62-F56F-7BAF-9CC2-65B4AA62E660">
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:07:15 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>0</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<dataTypeSize>50</dataTypeSize>
+<fileName>relacional_Domains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+</domains>
+</DomainFile>

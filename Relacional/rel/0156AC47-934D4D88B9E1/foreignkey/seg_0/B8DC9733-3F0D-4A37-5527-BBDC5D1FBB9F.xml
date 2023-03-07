@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B8DC9733-3F0D-4A37-5527-BBDC5D1FBB9F" containerWithKeyObject="D1F3B215-C9AC-3043-95F3-71511A2A80C9" localFKIndex="042D38F6-44A8-5313-FDA8-08540BD4B401" name="t_psc_cliente_t_psc_estabelecimento_fk">
+<sourceDDLFile>relacional.ddl</sourceDDLFile>
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:07:15 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<importedID>3EFD5C05-D8D2-63A2-8B0C-C669BAB13F56</importedID>
+<referredTableLongName>t_psc_estabelecimento</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>EFD52276-F97D-792C-9534-4EFE62A3B6CB</referredTableID>
+<keyObject>5A3C9A35-78CE-AAC1-2653-728CE5CA4249</keyObject>
+<referredKeyID>5A3C9A35-78CE-AAC1-2653-728CE5CA4249</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_estabelecimento</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

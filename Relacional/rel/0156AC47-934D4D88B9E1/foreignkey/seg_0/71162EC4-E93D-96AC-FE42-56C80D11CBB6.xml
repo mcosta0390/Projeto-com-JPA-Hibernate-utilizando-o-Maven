@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="71162EC4-E93D-96AC-FE42-56C80D11CBB6" containerWithKeyObject="EC6ACC1D-D778-679D-2423-03D2B3409FCC" localFKIndex="5CC2A93F-5225-D47F-40EA-16AA40244B8C" name="t_psc_fornecedor_t_psc_estabelecimento_fk">
+<sourceDDLFile>relacional.ddl</sourceDDLFile>
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:07:15 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<importedID>2D4F797B-1FD5-7299-AE23-0434BA880C44</importedID>
+<referredTableLongName>t_psc_estabelecimento</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>EFD52276-F97D-792C-9534-4EFE62A3B6CB</referredTableID>
+<keyObject>5A3C9A35-78CE-AAC1-2653-728CE5CA4249</keyObject>
+<referredKeyID>5A3C9A35-78CE-AAC1-2653-728CE5CA4249</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_estabelecimento</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="0156AC47-15A2-B30D-262D-934D4D88B9E1" mainViewID="0C4260D9-43D4-17A2-7753-9D9D358107FD">
+<createdBy>55119</createdBy>
+<createdTime>2023-03-06 16:04:03 UTC</createdTime>
+<ownerDesignName>Relacional</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>01F6E6D1-21D0-CFBD-ABDD-3988D1813575</selectedRDBMSSite>
+<importDDLFileStamps>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>relacional.ddl</fileName>
+<pathName>C:\Users\55119\Desktop\FIAP\Atividades para entregar\2 ano\Fase 1\Cap 5 - E o javanês agora acessa o banco sem sofrimento - Seu MVP precisa de uma modelagem\relacional</pathName>
+<dbType>17</dbType>
+</importDDLFileStamp>
+</importDDLFileStamps>
+</relationalModel>
